@@ -24,3 +24,5 @@ These project planning, management and execution activities have the purpose of 
 
 Finally, in the context of the second project planning, management and execution activity a small software development task will be carried out, in which the students, organised in groups of 3 or 4 members will develop a small piece of software to be integrated into a bigger software system.
  sadffgsho
+ 
+ Test
